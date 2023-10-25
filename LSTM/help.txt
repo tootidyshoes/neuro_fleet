@@ -1,0 +1,22 @@
+## Compute ROC
+https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/80807
+
+https://stackoverflow.com/questions/41032551/how-to-compute-receiving-operating-characteristic-roc-and-auc-in-keras
+
+RNN Help:
+
+https://github.com/yanndupis/RNN-Amazon-Fine-Food-Reviews/blob/master/Amazon%20Fine%20Food%20Reviews.ipynb
+
+https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+
+https://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html
+
+https://www.kaggle.com/qinhui1999/deep-learning-is-all-you-need-lb-0-80x
+
+https://www.kaggle.com/CVxTz/keras-baseline-feature-hashing-cnn
+
+https://www.kaggle.com/fizzbuzz/the-all-in-one-model
+
+https://www.kaggle.com/hoonkeng/how-to-get-81-gru-att-lgbm-tf-idf-eda
+
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/

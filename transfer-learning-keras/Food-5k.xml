@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.37.4" platform="windows">
+	<Queue>
+		<Server>
+			<Host>tremplin.epfl.ch</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>FoodImage@grebvm2.epfl.ch</User>
+			<Pass encoding="base64">Q2FoYzFtb28=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<File>
+				<LocalFile>C:\Users\VANSHIKA\Food-5K.zip</LocalFile>
+				<RemoteFile>Food-5K.zip</RemoteFile>
+				<RemotePath>1 0</RemotePath>
+				<Download>1</Download>
+				<Size>446919921</Size>
+				<DataType>1</DataType>
+			</File>
+			<File>
+				<LocalFile>C:\Users\VANSHIKA\Food-11.zip</LocalFile>
+				<RemoteFile>Food-11.zip</RemoteFile>
+				<RemotePath>1 0</RemotePath>
+				<Download>1</Download>
+				<Size>1163037552</Size>
+				<DataType>1</DataType>
+			</File>
+		</Server>
+	</Queue>
+</FileZilla3>

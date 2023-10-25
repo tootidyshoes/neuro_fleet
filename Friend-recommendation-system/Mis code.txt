@@ -1,0 +1,9 @@
+features = df_final_train.columns
+importances = clf.feature_importances_
+indices = (np.argsort(importances))[-25:]
+plt.figure(figsize=(10,12))
+plt.title('Feature Importances')
+plt.barh(range(len(indices)), importances[indices], color='r', align='center')
+plt.yticks(range(len(indices)), [features[i] for i in indices])
+plt.xlabel('Relative Importance')
+plt.show()
